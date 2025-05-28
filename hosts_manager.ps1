@@ -1,6 +1,5 @@
 # Hosts File Manager for Windows 11
-# Adapted from macOS zsh version
-# All comments are in English
+# Adapted from hosts_manager_sh macOS zsh version
 
 # --- Settings ---
 $HOSTS_FILE = "C:\Windows\System32\drivers\etc\hosts"
