@@ -7,6 +7,7 @@
 ![Logging](https://img.shields.io/badge/Logging-✓-blue)
 ![Duplicate Check](https://img.shields.io/badge/Duplicate%20Check-✓-green)
 ![Export/Import](https://img.shields.io/badge/Export%2FImport-✓-pink)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Repo Size](https://img.shields.io/github/repo-size/VioletSoul/Hosts_manager_win64)
 ![Code Size](https://img.shields.io/github/languages/code-size/VioletSoul/Hosts_manager_win64)
 
